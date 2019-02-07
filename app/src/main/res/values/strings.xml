@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InventoryV1</string>
+    <string name="product_name">Product Name</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="supplier_phone">Supplier Phone</string>
+
+    <!--Button Strings-->
+    
+    <string name="save_button">Save Product</string>
+
+
+</resources>
